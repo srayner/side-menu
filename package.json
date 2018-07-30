@@ -1,0 +1,14 @@
+{
+  "name": "side-menu",
+  "version": "1.0.0",
+  "description": "a side navigation menu component",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss/side-menu.scss menu.css"
+  },
+  "author": "Steve Rayner",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.10.1"
+  }
+}
